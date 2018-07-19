@@ -1,0 +1,12 @@
+.buttons {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 200px;
+  padding-bottom: 30px;
+}
+
+.link {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+}

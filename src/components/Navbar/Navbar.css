@@ -1,0 +1,23 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  text-decoration: none;
+}
+
+.links {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 15px 0px 15px;
+  text-decoration: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.logo__img {
+  width: 80px;
+  height: 80px;
+}
